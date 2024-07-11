@@ -1,0 +1,8 @@
+Nome: Teste - Node, Idade: 20, Profissão: Dev Full Stack - Node
+Nome: Teste - Angular, Idade: 20, Profissão: Dev Full Stack - Angular
+Nome: Teste - React, Idade: 20, Profissão: Dev Full Stack - React
+Nome: Teste - React Native, Idade: 20, Profissão: Dev Full Stack - React Native
+Nome: Teste - Vue, Idade: 20, Profissão: Dev Full Stack - VueNome: Teste - GO, Idade: 20, Profissão: Dev Full stack
+Nome: Teste - Vue, Idade: 20, Profissão: Dev Full stack - Vue
+Nome: Teste - GO, Idade: 20, Profissão: Dev Full stack - Go
+Nome: Teste - GO - 2, Idade: 20, Profissão: Dev Full stack - Go -2
